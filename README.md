@@ -41,3 +41,9 @@ Our knowledge on web development was heavily expanded upon during this hackathon
 
 There are a handful of extra projects that we are ambitious about, but unfortunately did not have the sufficient resources to implement. As previously stated, the inclusion of some Google firebase services, such as the authentication/login feature, and the database for tickets and extra user data, is on our roadmap. With those ideas in mind, adding a fully-functional checkout process is also a great addition to the website. We would also like to carry over values from the home page to the checkout. So if you were to click on a particular date to travel, the checkout page would have that part of the info filled out for you. Overall, the majority of the future tasks are all possible with our team, and would improve the project greatly.
  
+ 
+ ## Try it out
+ 
+ Via Powershell navigate to the "new" directory
+ Run 'yarn install'
+ Once it completes, run 'yarn start'.
