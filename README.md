@@ -44,6 +44,6 @@ There are a handful of extra projects that we are ambitious about, but unfortuna
  
  ## Try it out
  
- Via Powershell navigate to the "new" directory
- Run 'yarn install'
- Once it completes, run 'yarn start'.
+ - Via Powershell navigate to the "new" directory
+ - Run 'yarn install'
+ - Once it completes, run 'yarn start'.
